@@ -38,3 +38,6 @@
 * How do you run tests?
 * What assertions were made?
 * What assertions need to be / should be made?
+
+#### Packages:
+- Typing animations courtesy of (`react-typing-animation`)[https://www.npmjs.com/package/react-typing-animation] 
