@@ -8,7 +8,7 @@
 ### Links and Resources
 * [front-end site](https://xv2xk51myp.codesandbox.io/)
 * [front-end repo](https://codesandbox.io/s/xv2xk51myp)
-* [Q-Server](https://db-q-server.herokuapp.com/) (_Note: when opening this link, your browser may say "page not found"_)
+* [Q-Server](https://db-q-server.herokuapp.com/) (_Note: when opening this link, your browser may say "page not found". This is ok!_)
 * [Q-Server Repo](https://github.com/beccalee123/q-server)
 * [API-Server](https://db-api-bl.herokuapp.com/)
 * [API-Server Repo](https://github.com/beccalee123/API-Server-DB)
@@ -35,9 +35,8 @@
 - To delete a record on the players route, enter the following command `http DELETE https://db-api-bl.herokuapp.com/api/v1/players/<_id of the record you're deleting>`
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+- Tests are currently being made on the functionality without being hooked up to a mock q/api server. 
+- Mocks should be added to additional tests can be run on the functionality that corresponds with the q and api servers
 
 #### Packages:
 - Typing animations courtesy of [`react-typing-animation`](https://www.npmjs.com/package/react-typing-animation)
